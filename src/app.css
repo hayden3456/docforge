@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+/* Custom brand color definition */
+@theme {
+  --color-brand-50: #f0fdf4;
+  --color-brand-100: #dcfce7;
+  --color-brand-200: #bbf7d0;
+  --color-brand-300: #86efac;
+  --color-brand-400: #4ade80;
+  --color-brand-500: #22c55e;
+  --color-brand-600: #104C35;
+  --color-brand-700: #0d3d2a;
+  --color-brand-800: #0a2e1f;
+  --color-brand-900: #071f14;
+  --color-brand-950: #04100a;
+}
+
+/* Custom shadow for brand color */
+.shadow-glow {
+  box-shadow: 0 0 20px rgba(16, 76, 53, 0.3);
+}
