@@ -11,8 +11,8 @@
       <span class="text-lg sm:text-xl font-semibold tracking-tight text-slate-900">DocFlow</span>
     </a>
     <nav class="hidden items-center gap-4 sm:gap-6 text-sm text-slate-600 md:flex">
-      <a href="#about-us" class="hover:text-slate-900">About Us</a>
-      <a href="#features" class="hover:text-slate-900">Features</a>
+      <a href="/#about-us" class="hover:text-slate-900">About Us</a>
+      <a href="/#features" class="hover:text-slate-900">Features</a>
       <a href="/pricing" class="hover:text-slate-900">Pricing</a>
     </nav>
     <div class="flex items-center gap-2">

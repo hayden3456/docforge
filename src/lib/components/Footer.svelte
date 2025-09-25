@@ -12,8 +12,8 @@
       <span class="font-semibold">DocFlow</span>
     </a>
     <nav class="flex items-center gap-4 sm:gap-6 text-sm">
-      <a href="#about-us" class="hover:text-slate-900">About Us</a>
-      <a href="#features" class="hover:text-slate-900">Features</a>
+      <a href="/#about-us" class="hover:text-slate-900">About Us</a>
+      <a href="/#features" class="hover:text-slate-900">Features</a>
       <a href="/pricing" class="hover:text-slate-900">Pricing</a>
     </nav>
     <p class="text-center text-xs sm:text-sm md:text-right">© {currentYear} DocFlow. All rights reserved.</p>
