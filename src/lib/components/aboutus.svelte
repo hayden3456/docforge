@@ -44,7 +44,7 @@
                 <div class="pt-4">
                   <div class="flex items-center space-x-4">
                     <img 
-                      src="/src/lib/assets/hayden_bio_cropped.jpg" 
+                      src="/hayden_bio_cropped.jpg" 
                       alt="Hayden Constas" 
                       class="h-12 w-12 rounded-full object-cover"
                     />

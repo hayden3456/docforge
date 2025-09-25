@@ -38,7 +38,7 @@
           hasCodeExample={true}
           title="Tribal Knowledge Leaves"
           description="Critical knowledge walks out the door with departing team members, creating knowledge gaps."
-          imageSrc="/src/lib/assets/walking.png"
+          imageSrc="/walking.png"
         />
         <ProblemCard
           title='Getting Info Takes Too Long'
@@ -110,7 +110,7 @@
             <!-- Right side: Diagram -->
             <div class="relative">
               <div class="rounded-2xl p-6">
-                <img src="/src/lib/assets/digram.svg" alt="Codebase dependency mapping diagram" class="w-full h-auto" />
+                <img src="/digram.svg" alt="Codebase dependency mapping diagram" class="w-full h-auto" />
               </div>
               <!-- Decorative elements -->
               <div class="absolute -right-4 -top-4 h-24 w-24 rounded-full bg-brand-500/10 blur-xl"></div>
