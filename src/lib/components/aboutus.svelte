@@ -4,10 +4,10 @@
 </script>
 
     <!-- About Us Section -->
-    <section id="about-us" class="bg-amber-50 py-20 dark:bg-slate-900">
-        <div class="container mx-auto px-6">
+    <section id="about-us" class="bg-amber-50 py-12 sm:py-16 md:py-20">
+        <div class="container mx-auto px-4 sm:px-6">
           <div class="mx-auto max-w-7xl">
-            <div class="grid gap-16 lg:grid-cols-2 lg:gap-20 lg:items-center">
+            <div class="grid gap-8 sm:gap-12 md:gap-16 lg:grid-cols-2 lg:gap-20 lg:items-center">
 
 
                 <!-- Right side: Programmer animation -->
@@ -27,16 +27,16 @@
               </div>
 
               <!-- Left side: About Us content -->
-              <div class="space-y-6">
-                <h2 class="text-pretty text-4xl font-bold tracking-tight text-slate-900 md:text-5xl dark:text-white">
+              <div class="space-y-4 sm:space-y-6">
+                <h2 class="text-pretty text-3xl sm:text-4xl font-bold tracking-tight text-slate-900 md:text-5xl">
                   About Us
                 </h2>
-                <p class="text-lg text-slate-600 dark:text-slate-300">
+                <p class="text-base sm:text-lg text-slate-600">
                     We're a team of developers who have had to "fake it till you make it" for too long. 
                     Whether it's onboarding a new team or reading code you wrote years ago, understanding a codebase is hard. 
                     With more generative AI–written code in the world, true understanding is only getting harder.
                 </p>
-                <p class="text-lg text-slate-600 dark:text-slate-300">
+                <p class="text-base sm:text-lg text-slate-600">
                     Our mission is to allow for deeper undersanding of files, how they interact, and map how code 
                     is advancing inishitives of the buisness. To become a platform for the highest picture of buisness, we have to start from the foundation.
                     The internal code documentation.
@@ -49,8 +49,8 @@
                       class="h-12 w-12 rounded-full object-cover"
                     />
                     <div>
-                      <h3 class="font-semibold text-slate-900 dark:text-white">Hayden Constas</h3>
-                      <p class="text-sm text-slate-600 dark:text-slate-400">Founder of DocFlow</p>
+                      <h3 class="font-semibold text-slate-900">Hayden Constas</h3>
+                      <p class="text-sm text-slate-600">Founder of DocFlow</p>
                     </div>
                   </div>
                 </div>

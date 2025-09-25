@@ -29,8 +29,8 @@
     </div>
     
     <div class="text-content">
-      <h3 class="font-semibold text-slate-900 dark:text-slate-100 mt-4 text-2xl ">{title}</h3>
-      <p class="mt-2 text-slate-600 dark:text-slate-400 text-xl ">{description}</p>
+      <h3 class="font-semibold text-slate-900 mt-4 text-2xl md:text-2xl sm:text-xl">{title}</h3>
+      <p class="mt-2 text-slate-600 text-xl md:text-xl sm:text-lg">{description}</p>
     </div>
   </div>
 </div>
@@ -62,10 +62,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 250px;
+  height: 200px;
   width: 100%;
   position: relative;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 /* Image wrapper for problem cards */
@@ -73,10 +73,19 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 250px;
+  height: 200px;
   width: 100%;
   position: relative;
-  margin-top: 40px;
+  margin-top: 20px;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+  .text-bubble-wrapper,
+  .image-wrapper {
+    height: 150px;
+    margin-top: 15px;
+  }
 }
 
 .problem-image {
