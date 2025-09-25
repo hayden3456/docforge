@@ -12,7 +12,7 @@
 
 <div class="problem-card-container">
   <div class="card-content">
-    <div class="rounded-xl bg-white p-6 transition hover:shadow-md dark:bg-slate-950">
+    <div class="rounded-xl bg-amber-50 p-6 ">
       {#if hasCodeExample}
         {#if imageSrc}
           <div class="image-wrapper">
@@ -29,8 +29,8 @@
     </div>
     
     <div class="text-content">
-      <h3 class="text-base font-semibold text-slate-900 dark:text-slate-100 mt-4">{title}</h3>
-      <p class="mt-2 text-sm text-slate-600 dark:text-slate-400">{description}</p>
+      <h3 class="font-semibold text-slate-900 dark:text-slate-100 mt-4 text-2xl ">{title}</h3>
+      <p class="mt-2 text-slate-600 dark:text-slate-400 text-xl ">{description}</p>
     </div>
   </div>
 </div>
