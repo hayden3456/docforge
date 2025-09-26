@@ -7,7 +7,7 @@
         <span class="bg-gradient-to-br from-slate-900 to-slate-700 bg-clip-text text-transparent">The AI Documentation Tool</span>
       </h1>
       <p class="max-w-4xl text-pretty text-lg sm:text-xl leading-relaxed text-slate-600 md:text-2xl">
-        We go through work each day prending to know all the ins and outs of a codebase, when it's just not possible. We're  moving to make true understanding a reality.
+        For developers who waste time chasing <code class="bg-slate-100 px-2 py-1 rounded text-sm font-mono text-slate-800">lost_context</code>. We automate knowledge networks to account for the smallest changes to the big architectural redesigns.
       </p>
       <div class="flex flex-wrap gap-3">
         <a href="/book-a-call" class="inline-flex items-center justify-center rounded-md bg-brand-600 px-4 sm:px-5 py-2.5 sm:py-3 text-sm font-semibold text-white shadow-glow transition hover:bg-brand-700 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-500/60">

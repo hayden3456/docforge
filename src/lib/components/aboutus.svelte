@@ -37,9 +37,9 @@
                     With more generative AI–written code in the world, true understanding is only getting harder.
                 </p>
                 <p class="text-base sm:text-lg text-slate-600">
-                    Our mission is to allow for deeper undersanding of files, how they interact, and map how code 
-                    is advancing inishitives of the buisness. To become a platform for the highest picture of buisness, we have to start from the foundation.
-                    The internal code documentation.
+                    Our mission is to allow for deeper understanding of files, how they interact, and to map how code 
+                    is advancing initiatives of the business. To become a platform for the broadest view of your business, we have to start from the foundation:
+                    the internal code documentation.
                 </p>
                 <div class="pt-4">
                   <div class="flex items-center space-x-4">

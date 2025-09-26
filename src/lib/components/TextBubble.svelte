@@ -29,7 +29,7 @@
 }
 
 .bubble-content {
-  background: #3b82f6;
+  background: #104C35;
   color: white;
   padding: 0.4em 0.6em;
   border-radius: 0.7em;
@@ -50,7 +50,7 @@
   height: 0;
   border-left: 1.2em solid transparent;
   border-right: 1.2em solid transparent;
-  border-top: 2.0em solid #3b82f6;
+  border-top: 2.0em solid #104C35;
 }
 
 .bubble-footer {

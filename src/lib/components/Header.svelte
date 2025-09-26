@@ -8,7 +8,7 @@
       <span class="relative inline-flex h-10 w-10 sm:h-12 sm:w-12 items-center justify-center rounded-lg bg-brand-600 text-white shadow-glow">
         <img src={whiteCrab} alt="DocFlow Logo" class="h-6 w-6 sm:h-8 sm:w-8" />
       </span>
-      <span class="text-lg sm:text-xl font-semibold tracking-tight text-slate-900">DocFlow</span>
+      <span class="text-lg sm:text-xl font-semibold tracking-tight text-slate-900">DocForge</span>
     </a>
     <nav class="hidden items-center gap-4 sm:gap-6 text-sm text-slate-600 md:flex">
       <a href="/#about-us" class="hover:text-slate-900">About Us</a>

@@ -13,8 +13,8 @@
 <div class="group relative rounded-2xls">
   <div class="flex items-start {showIcon ? 'gap-4' : ''}">
     <div class="flex-1 min-w-0">
-      <h3 class="text-3xl font-extrabold text-slate-900 dark:text-slate-100 {isCompact ? 'text-2xl' : ''}">{title}</h3>
-      <p class="mt-4 text-xl leading-9 text-slate-600 dark:text-slate-400 {isCompact ? 'text-lg leading-8' : ''}">{description}</p>
+      <h3 class="text-3xl font-extrabold text-slate-900 {isCompact ? 'text-2xl' : ''}">{title}</h3>
+      <p class="mt-4 text-xl leading-9 text-slate-600 {isCompact ? 'text-lg leading-8' : ''}">{description}</p>
     </div>
   </div>
 </div>
