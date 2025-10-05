@@ -87,6 +87,27 @@
     </div>
   </section>
 
+  <!-- Contact Section -->
+  <section class="py-16">
+    <div class="container mx-auto px-6">
+      <div class="mx-auto max-w-4xl text-center">
+        <h2 class="text-3xl font-bold text-slate-900 dark:text-white">Prefer Email?</h2>
+        <p class="mt-4 text-lg text-slate-600 dark:text-slate-300">
+          You can also reach out directly via email for any questions or to discuss your documentation needs.
+        </p>
+        <div class="mt-8">
+          <a href="mailto:ceo@docforge.net" 
+             class="inline-flex items-center rounded-lg bg-brand-600 px-6 py-3 text-lg font-semibold text-white shadow-sm hover:bg-brand-700 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2 dark:focus:ring-offset-slate-900">
+            <svg class="mr-2 h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+            </svg>
+            ceo@docforge.net
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- What to Expect Section -->
   <section class="bg-amber-50 py-16 dark:bg-slate-900">
     <div class="container mx-auto px-6">
@@ -106,7 +127,7 @@
                 <svg class="h-5 w-5 text-brand-600 mt-0.5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
                 </svg>
-                <span>Demo DocFlow's capabilities</span>
+                <span>Discuss DocFlow's capabilities</span>
               </li>
               <li class="flex items-start">
                 <svg class="h-5 w-5 text-brand-600 mt-0.5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">

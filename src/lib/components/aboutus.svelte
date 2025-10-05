@@ -50,7 +50,7 @@
                     />
                     <div>
                       <h3 class="font-semibold text-slate-900">Hayden Constas</h3>
-                      <p class="text-sm text-slate-600">Founder of DocFlow</p>
+                      <p class="text-sm text-slate-600">Founder of DocForge</p>
                     </div>
                   </div>
                 </div>
