@@ -13,11 +13,17 @@
     script.src = 'https://assets.calendly.com/assets/external/widget.js';
     script.async = true;
     document.head.appendChild(script);
+    
+
+    // Event snippet for Page view (2) conversion page
+    if (typeof gtag !== 'undefined') {
+      gtag('event', 'conversion', {'send_to': 'AW-17529895494/wTD9CPX236cbEMb086ZB'});
+    }
   });
+
 </script>
 
 <div class="min-h-screen overflow-x-hidden bg-amber-50 text-slate-800 antialiased font-sans dark:bg-slate-950 dark:text-slate-100">
-  <!-- Header -->
   <Header />
 
   <!-- Booking Hero -->

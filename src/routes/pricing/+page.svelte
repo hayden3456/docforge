@@ -6,6 +6,26 @@
   const currentYear = new Date().getFullYear();
 </script>
 
+<svelte:head>
+  <title>Pricing - DocForge AI Documentation</title>
+  <meta name="description" content="Simple, transparent pricing for DocForge. Free for open source projects, $129/month for enterprise. AI documentation generation with no hidden fees." />
+  <meta name="keywords" content="DocForge pricing, AI documentation cost, documentation tool pricing, enterprise documentation, open source documentation" />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://docforge.com/pricing" />
+  <meta property="og:title" content="Pricing - DocForge AI Documentation" />
+  <meta property="og:description" content="Simple, transparent pricing for DocForge. Free for open source projects, $129/month for enterprise. AI documentation generation with no hidden fees." />
+  <meta property="og:image" content="https://docforge.com/hayden_bio_cropped.jpg" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://docforge.com/pricing" />
+  <meta property="twitter:title" content="Pricing - DocForge AI Documentation" />
+  <meta property="twitter:description" content="Simple, transparent pricing for DocForge. Free for open source projects, $129/month for enterprise. AI documentation generation with no hidden fees." />
+  <meta property="twitter:image" content="https://docforge.com/hayden_bio_cropped.jpg" />
+</svelte:head>
+
 <div class="min-h-screen overflow-x-hidden bg-amber-50 text-slate-800 antialiased font-sans dark:bg-slate-950 dark:text-slate-100">
   <!-- Header -->
   <Header />

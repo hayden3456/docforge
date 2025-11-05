@@ -17,6 +17,26 @@
   const currentYear = new Date().getFullYear();
 </script>
 
+<svelte:head>
+  <title>DocForge - AI Documentation Generation for Codebases</title>
+  <meta name="description" content="DocForge generates and maintains documentation for your codebase automatically. AI-powered documentation that stays in sync with your code changes. Perfect for teams and open source projects." />
+  <meta name="keywords" content="AI documentation, code documentation, automatic documentation, developer tools, codebase documentation, software documentation, technical writing, developer productivity" />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://docforge.com/" />
+  <meta property="og:title" content="DocForge - AI Documentation Generation for Codebases" />
+  <meta property="og:description" content="DocForge generates and maintains documentation for your codebase automatically. AI-powered documentation that stays in sync with your code changes." />
+  <meta property="og:image" content="https://docforge.com/hayden_bio_cropped.jpg" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://docforge.com/" />
+  <meta property="twitter:title" content="DocForge - AI Documentation Generation for Codebases" />
+  <meta property="twitter:description" content="DocForge generates and maintains documentation for your codebase automatically. AI-powered documentation that stays in sync with your code changes." />
+  <meta property="twitter:image" content="https://docforge.com/hayden_bio_cropped.jpg" />
+</svelte:head>
+
   <div class="min-h-screen overflow-x-hidden bg-amber-50 text-slate-800 antialiased font-sans">
     <!-- Header -->
   <Header />
